@@ -97,9 +97,5 @@ The project highlighted that:
 - security vulnerabilities such as eval() should be removed early
 - automated checks improve collaboration and reduce future bugs
 
-## Author
-- Name: Augustine Mathew
-- SRN: PES2UG23CS107
-
 ## Notes
 This repository is intended as a learning example for static code analysis in Python and demonstrates how automated tools can be used to improve software quality.
