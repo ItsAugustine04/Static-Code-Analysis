@@ -1,4 +1,4 @@
-Static-Code-Analysis
+# Static-Code-Analysis
 
 ## Project Overview
 This repository contains a simple Python inventory management system that was analyzed and improved using static code analysis tools. The goal of the project is to demonstrate how tools such as Flake8, Pylint, and Bandit can help identify issues related to code style, maintainability, and security.
